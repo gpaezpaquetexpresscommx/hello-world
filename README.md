@@ -5,4 +5,4 @@ Hi!
 Hi!
 Hi!
 Hi!
-Hello tacos
+<s>Hello tacos</s>
